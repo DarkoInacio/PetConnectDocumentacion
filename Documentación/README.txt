@@ -1,16 +1,16 @@
-Documentación
-===============
+Documentación del proyecto
+==========================
 
-Material de soporte visual y técnico del proyecto PetConnect.
+Carpetas de entregables académicos y técnicos.
 
-Subcarpetas:
-- Informes/          Documentos descriptivos del progreso
-- UML/               Diagramas de lenguaje de modelado unificado
-- Wireframes/        Bocetos o esquemas de la interfaz de usuario
-- MER/               Diagramas de modelo entidad-relación
-- Diagramas-Gantt/   Cronogramas de planificación y tiempos
+  Informes/          — Informes de avance, evidencias de pruebas
+  UML/               — Diagramas de casos de uso, clases, secuencia
+  MER/               — Modelo entidad-relación
+  Wireframes/        — Mockups de interfaz
+  Diagramas-Gantt/   — Planificación temporal
 
-Formatos recomendados:
-- Texto e informes: PDF, Markdown (.md), DOCX
-- Diagramas: PNG, SVG, PDF, fuentes editables .drawio / .vsdx cuando aplique
-- Planificación Gantt: PDF, XLSX, MPP (export), o enlaces a herramientas colaborativas documentados por el equipo
+Guías técnicas (Markdown) — desarrollo, instalación, API, pruebas:
+
+  Desarrollo/README.md
+
+Comenzar por el README.md en la raíz del repositorio.

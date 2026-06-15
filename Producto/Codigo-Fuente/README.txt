@@ -1,8 +1,20 @@
 Código fuente
 =============
 
-Ubicación de referencia para los archivos de programación del proyecto.
+Los repositorios activos del proyecto son:
 
-Recomendación: Documentar aquí la ruta del repositorio (GitHub/GitLab), ramas principales y qué contiene cada repo (backend, frontend PWA, etc.), en lugar de duplicar todo el código dentro de esta carpeta.
+  PetConnect          — Frontend PWA (React + Vite + Tailwind)
+  PetConnectBackend   — API REST (Node.js + Express + MongoDB)
 
-Si se requiere entregar una copia, comprimir el código excluyendo node_modules y .git, o usar un submódulo Git.
+No duplicar el código aquí. Clonar desde GitHub e instalar según:
+
+  Documentación/Desarrollo/instalacion-local.md
+
+Mapa de carpetas y scripts:
+
+  Documentación/Desarrollo/estructura-repositorios.md
+
+Plan de pruebas y QA Newman:
+
+  PetConnect/TEST_PLAN.md
+  PetConnectBackend/postman/README.md
