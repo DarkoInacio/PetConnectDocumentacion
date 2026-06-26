@@ -2,7 +2,7 @@
 
 Guía técnica general del ecosistema PetConnect: arquitectura, tecnologías, instalación local, estructura de repositorios y pruebas.
 
-Esta carpeta complementa la documentación académica (UML, MER, Gantt) y el PDF de definición del proyecto en `Gestión/Definicion-del-Proyecto/`.
+Esta carpeta complementa la documentación académica (UML, MER, Gantt, Informes) y los entregables en `Gestión/Definicion-del-Proyecto/`.
 
 ## Índice
 

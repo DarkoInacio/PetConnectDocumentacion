@@ -108,8 +108,8 @@ PetConnectDocumentacion/
 │   ├── Informes/
 │   ├── UML/
 │   ├── MER/
-│   ├── Wireframes/
-│   └── Diagramas-Gantt/
+│   ├── Diagramas-Gantt/
+│   └── Presentaciones/
 ├── Producto/
 │   ├── Codigo-Fuente/     # Referencia a repos GitHub
 │   ├── Librerias/

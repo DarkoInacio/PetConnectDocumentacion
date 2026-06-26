@@ -1,12 +1,30 @@
 Lista de integrantes
 ====================
 
-Información sobre las personas que conforman el equipo de trabajo.
+Equipo de trabajo PetConnect — TPY 1101, Duoc UC Padre Alonso de Ovalle.
+Docente: Felix Cifuentes Cid.
 
-Sugerencia de contenido por persona: nombre, rol (ej. desarrollo backend, frontend, UX, QA), correo institucional o de contacto, según política del curso o empresa.
+Integrantes y roles
+-------------------
+  Anais Llancapan       — Frontend
+  Catalina Rosales      — Backend / Product Owner
+  Diego Sotelo          — Scrum Master
+  Edgar Morales         — Backend / Frontend
 
-Puede incluirse una tabla en un documento PDF o texto plano.
+Organización Scrum
+------------------
+  Metodología: Scrum (sprints 0–7, historias HU-01…31).
+  Product Backlog: Gestión/Definicion-del-Proyecto/PetConnect_Jira_Backlog.xlsx
+  Roles Scrum (SM, PO, Developers): detallados en Informe 2.pdf e
+  Informe 1 Registro de antecedentes.pdf.
 
-Según el documento de definición del proyecto (equipo de referencia):
-- Integrantes de ejemplo en el registro: Anais Llancapan, Catalina Rosales, Diego Sotelo (Scrum Master), Edgar Morales.
-- Roles: Frontend, Backend, Scrum Master, Backend/Frontend (ajustar según el equipo actual y el documento entregado al docente).
+Contacto
+--------
+  Los datos de contacto institucional figuran en los informes entregados al
+  docente (Informe 1 y documento 1.1.2). No se publican correos en este
+  repositorio por privacidad.
+
+Referencia
+----------
+  Gestión/Definicion-del-Proyecto/1.1.2-Documento-registro-definicion-identificacion-proyecto.pdf
+  Documentación/Informes/Informe 1 Registro de antecedentes.pdf
